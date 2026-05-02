@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- MAIN PAGE -->
+  <url>
+    <loc>https://xfinityguide.github.io/xfinity-prepaid-bill-pay/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- SUPPORT PAGE 1 -->
+  <url>
+    <loc>https://xfinityguide.github.io/xfinity-prepaid-not-working/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- SUPPORT PAGE 2 -->
+  <url>
+    <loc>https://xfinityguide.github.io/xfinity-prepaid-billing-help/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
