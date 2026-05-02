@@ -1,0 +1,4 @@
+Project: Xfinity Prepaid Billing Guide
+Author: Insurance Bill Help
+Purpose: Informational billing and payment guidance
+Language: HTML, SEO Structured Content
